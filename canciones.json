@@ -1,0 +1,78 @@
+[{
+        "id": "0",
+        "nombre": "Bohemian Rhapsody",
+        "autor": "Queen",
+        "genero": "Rock",
+        "duracion": 50
+    },
+    {
+        "id": "1",
+        "nombre": "Bleed it out",
+        "autor": "Jesulinkin Park",
+        "genero": "Rock",
+        "duracion": 56
+    },
+    {
+        "id": "2",
+        "nombre": "Africa",
+        "autor": "Toto",
+        "genero": "Pop",
+        "duracion": 70
+    },
+    {
+        "id": "3",
+        "nombre": "Basket Case",
+        "autor": "Green Day",
+        "genero": "Punk Rock",
+        "duracion": 85
+    },
+    {
+        "id": "4",
+        "nombre": "Everybody",
+        "autor": "Backstreet Boys",
+        "genero": "Pop",
+        "duracion": 85
+    },
+    {
+        "id": "5",
+        "nombre": "Times like these",
+        "autor": "Foo Fighters",
+        "genero": "Pop",
+        "duracion": 85
+    },
+    {
+        "id": "6",
+        "nombre": "Knights of Cydonia",
+        "autor": "Muse",
+        "genero": "Rock",
+        "duracion": 85
+    },
+    {
+        "id": "7",
+        "nombre": "Sabotage",
+        "autor": "Beastie Boys",
+        "genero": "Rap",
+        "duracion": 85
+    },
+    {
+        "id": "8",
+        "nombre": "Californication",
+        "autor": "Red Hot Chilli Peppers",
+        "genero": "Rock",
+        "duracion": 85
+    },
+    {
+        "id": "9",
+        "nombre": "Hedwig's Theme",
+        "autor": "John Williams",
+        "genero": "Instrumental",
+        "duracion": 85
+    },
+    {
+        "id": "10",
+        "nombre": "A septiembre",
+        "autor": "Randión",
+        "genero": "Php",
+        "duracion": 85
+    }
+]
